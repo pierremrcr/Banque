@@ -7,6 +7,7 @@ Application crée en JEE permettant d'effectuer des opérations bancaires classi
 * Un client Web consommant cet EJB via les protocoles REST et SOAP
 
 Serveur : Wildfly 8 (JBoss)
+
 SGBD : PostgreSQL
 
 
